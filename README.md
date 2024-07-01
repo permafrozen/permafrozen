@@ -1,9 +1,8 @@
 # Description 
 ## > whoami
-Hi, I’m @Permafrozen
-I like markdown and nixos:)
+Hi, I’m @Permafrozen and who would've guessed, this is my GitHub account.
 ## > whatami
-I'm only human after all
+I'm only human after all.
 ## > interests
 - programming
 - shaders
