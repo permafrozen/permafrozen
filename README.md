@@ -1,6 +1,6 @@
 # Description 
 ## > whoami
-Hi, I’m @Permafrozen and who would've guessed, this is my GitHub account.
+Hi, I’m @Permafrozen and who would've guessed, this is my GitHub account. Here will probably only be some small projects
 ## > whatami
 I'm only human after all.
 ## > interests
