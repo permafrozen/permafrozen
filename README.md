@@ -24,6 +24,7 @@
 ██║ ╚████║██║██╔╝ ██╗╚██████╔╝███████║
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Permafrozen&show_icons=true&theme=transparent)
 
 <!---
 Permafrozen/Permafrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
