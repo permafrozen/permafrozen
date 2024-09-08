@@ -24,6 +24,7 @@
 ██║ ╚████║██║██╔╝ ██╗╚██████╔╝███████║
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
+![image](https://brandfetch.com/nixos.org?library=default&collection=logos&asset=id4S87QYhL&view=library)
 
 <!---
 Permafrozen/Permafrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
