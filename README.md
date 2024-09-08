@@ -5,6 +5,9 @@
     </tr>
 </div>
 
+<div align="center">
+    <img height="137px" align="center" alt="GitHub Stats" src="https://raw.githubusercontent.com/NixOS/nixos-artwork/de03e887f03037e7e781a678b57fdae603c9ca20/logo/nix-snowflake-colours.svg"/>
+</div>
 <!---
 Permafrozen/Permafrozen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
