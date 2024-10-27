@@ -20,5 +20,7 @@ jobs:
           # Options
           user: Permafrozen
           template: markdown
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Vienna
+          filename: metrics.markdown.md
+          markdown: >-
+            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          config_output: markdown
