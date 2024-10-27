@@ -17,10 +17,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Plugins
+          plugin_activity: yes
+          plugin_lines: yes
+
           # Options
           user: Permafrozen
           template: markdown
-          plugin_activity: yes
           filename: README.md
           markdown: >-
             https://raw.githubusercontent.com/Permafrozen/Permafrozen/refs/heads/main/markdown-template.md
