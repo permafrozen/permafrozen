@@ -20,6 +20,7 @@ jobs:
           # Options
           user: Permafrozen
           template: markdown
+          plugin_activity: yes
           filename: README.md
           markdown: >-
             https://raw.githubusercontent.com/Permafrozen/Permafrozen/refs/heads/main/markdown-template.md
