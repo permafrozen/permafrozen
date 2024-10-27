@@ -20,7 +20,7 @@ jobs:
           # Options
           user: Permafrozen
           template: markdown
-          filename: metrics.markdown.md
+          filename: README.md
           markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+            https://raw.githubusercontent.com/Permafrozen/Permafrozen/refs/heads/main/markdown-template.md
           config_output: markdown
