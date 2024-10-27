@@ -11,7 +11,3 @@ I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ C
 >   - *vi*
 
 And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `{{ REPOSITORIES }}` repositories, if you are *wondering*.
-
-<%- await include(`partials/lines.ejs`) %>
-- *I added `{{ LINES_ADDED }}` Lines*
-- *I deleted `{{ LINES_DELETED }}` Lines* 
