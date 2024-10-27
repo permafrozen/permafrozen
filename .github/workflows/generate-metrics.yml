@@ -24,7 +24,3 @@ jobs:
           markdown: >-
             https://raw.githubusercontent.com/Permafrozen/Permafrozen/refs/heads/main/markdown-template.md
           config_output: markdown
-
-          # Plugins
-          plugin_activity: yes
-          plugin_lines: yes
