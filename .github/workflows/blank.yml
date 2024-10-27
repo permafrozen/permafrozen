@@ -19,6 +19,6 @@ jobs:
 
           # Options
           user: Permafrozen
-          template: terminal
+          template: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Vienna
