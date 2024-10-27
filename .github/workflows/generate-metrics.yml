@@ -17,10 +17,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Plugins
-          plugin_activity: yes
-          plugin_lines: yes
-
           # Options
           user: Permafrozen
           template: markdown
@@ -28,3 +24,7 @@ jobs:
           markdown: >-
             https://raw.githubusercontent.com/Permafrozen/Permafrozen/refs/heads/main/markdown-template.md
           config_output: markdown
+
+          # Plugins
+          plugin_activity: yes
+          plugin_lines: yes
