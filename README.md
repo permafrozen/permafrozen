@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Matteo
 
 I joined GitHub on `25/04/2023`.
-I contributed to `19` repositories and made `1310` commits.
+I contributed to `19` repositories and made `1314` commits.
 
 > I am interested in ...
 > 
