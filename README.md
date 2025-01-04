@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Matteo
 
 I joined GitHub on `25/04/2023`.
-I contributed to `19` repositories and made `1350` commits.
+I contributed to `20` repositories and made `1357` commits.
 
 > I am interested in ...
 > 
@@ -10,4 +10,4 @@ I contributed to `19` repositories and made `1350` commits.
 > - **FOSS**
 >   - *vi*
 
-And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `8` repositories, if you are *wondering*.
+And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `9` repositories, if you are *wondering*.
