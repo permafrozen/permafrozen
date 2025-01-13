@@ -3,11 +3,20 @@
 I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`.
 I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
 
-> I am interested in ...
-> 
-> - **Linux/GNU stuff**
->     - *NixOS*
-> - **FOSS**
->   - *vi*
+#### Interests
 
-And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `{{ REPOSITORIES }}` repositories, if you are *wondering*.
+- **Linux/GNU stuff**
+  - _NixOS_
+  - _nix_
+- **FOSS**
+- **Programming**
+  - _Java, ..._
+  - _html, javascript, css_
+
+
+And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `{{ REPOSITORIES }}` repositories, if you are _wondering_.
+
+<%- await include(`partials/lines.ejs`) %>
+
+- _I added `{{ LINES_ADDED }}` Lines_
+- _I deleted `{{ LINES_DELETED }}` Lines_
