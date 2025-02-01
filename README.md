@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Matteo
 
 I joined GitHub on `25/04/2023`.
-I contributed to `20` repositories and made `1416` commits.
+I contributed to `21` repositories and made `1416` commits.
 
 #### Interests
 
@@ -14,4 +14,4 @@ I contributed to `20` repositories and made `1416` commits.
   - _html, javascript, css_
 
 
-And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `9` repositories, if you are _wondering_.
+And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `10` repositories, if you are _wondering_.
