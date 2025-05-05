@@ -1,17 +1,16 @@
-### 👋 Hello, I'm {{ NAME }}
+# 👋 Hello, I'm {{ NAME }}
 
-I joined GitHub on `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`.
-I contributed to `{{ REPOSITORIES_CONTRIBUTED_TO }}` repositories and made `{{ COMMITS }}` commits.
+## some stuff
 
-#### Interests
+- Uptime: `{{ f.date(REGISTRATION_DATE, {dateStyle:"short"}) }}`
+- Contributed Repos: `{{ REPOSITORIES_CONTRIBUTED_TO }}` *(owning `{{ REPOSITORIES }}`)*
+- Commits: `{{ COMMITS }}`
 
-- **Linux/GNU stuff**
-  - _NixOS_
-  - _nix_
-- **FOSS**
-- **Programming**
-  - _Java, ..._
-  - _html, javascript, css_
+## Interests
 
-
-And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `{{ REPOSITORIES }}` repositories, if you are _wondering_.
+- FOSS
+- DevOps
+- Nix(OS)
+- Java
+- C#
+- Webdev
