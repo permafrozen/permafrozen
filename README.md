@@ -1,17 +1,16 @@
-### 👋 Hello, I'm Matteo
+# 👋 Hello, I'm Matteo
 
-I joined GitHub on `25/04/2023`.
-I contributed to `25` repositories and made `1564` commits.
+## some stuff
 
-#### Interests
+- Uptime: `25/04/2023`
+- Contributed Repos: `25` *(owning `12`)*
+- Commits: `1566`
 
-- **Linux/GNU stuff**
-  - _NixOS_
-  - _nix_
-- **FOSS**
-- **Programming**
-  - _Java, ..._
-  - _html, javascript, css_
+## Interests
 
-
-And currently, I am writing my own **NixOS** configuration. It's somewhere in one of my `12` repositories, if you are _wondering_.
+- FOSS
+- DevOps
+- Nix(OS)
+- Java
+- C#
+- Webdev
