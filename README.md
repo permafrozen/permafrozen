@@ -1,1 +1,16 @@
-You did not provide a valid "markdown" query parameter, which is required to use this template.
+# 👋 Hello, I'm 
+
+## some stuff
+
+- Uptime: `25/04/2023`
+- Contributed Repos: `38` *(owning `21`)*
+- Commits: `1700`
+
+## Interests
+
+- FOSS
+- DevOps
+- Nix(OS)
+- Java
+- C#
+- Webdev
