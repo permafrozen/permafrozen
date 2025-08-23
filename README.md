@@ -3,7 +3,7 @@
 ## some stuff
 
 - Uptime: `25/04/2023`
-- Contributed Repos: `41` *(owning `23`)*
+- Contributed Repos: `40` *(owning `23`)*
 - Commits: `1747`
 
 ## Interests
